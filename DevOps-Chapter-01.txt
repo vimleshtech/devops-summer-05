@@ -1,0 +1,18 @@
+DevOps
+==========================
+Git and GitHub
+
+-Distribuated Version Source Control  
+-DVSC
+-Distribuated Version Control   v
+-DVCS
+
+Git:
+---------------------------------
+is an application to track the version of source and share with other team member (CI - Continous integration)
+
+
+
+
+
+
